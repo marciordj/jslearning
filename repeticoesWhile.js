@@ -1,4 +1,4 @@
-//estrutura de repetição com while
+//estrutura de repetição com while.
 
 var c = 1 
 
